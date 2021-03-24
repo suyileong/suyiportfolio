@@ -11,7 +11,7 @@ education:
 email: "suyi.leong0206@gmail.com"
 highlight_name: true
 interests:
-- Cultural Psychology
+- Culture and Technology
 - Norm Interventions
 - Intergroup Relations
 organizations:
