@@ -1,27 +1,23 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio:  I am currently a PhD student in Social Psychology. My research focuses on the role of culture in shaping individuals' emotions, motivation, and decision-making in relation to the use of technology.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-email: ""
-highlight_name: false
+  - course: PhD in Social Psychology
+    institution: University of California, Santa Barbara
+    year: 2019-Present
+  - course: BA in Psychology and Early Childhood and Family Studies
+    institution: University of Washington, Seattle
+    year: 2018
+email: "suyi.leong0206@gmail.com"
+highlight_name: true
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Cultural Psychology
+- Norm Interventions
+- Intergroup Relations
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: University of California, Santa Barbara
+  url: https://labs.psych.ucsb.edu/sherman/david/
+role: PhD Student | Aspiring UX Researcher
 social:
 - icon: envelope
   icon_pack: fas
@@ -31,22 +27,19 @@ social:
   icon: twitter
   icon_pack: fab
   label: Follow me on Twitter
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://twitter.com/suyi_leong
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/Suyi-Leong
 superuser: true
-title: Nelson Bighetti
+title: Suyi Leong
 ---
+Hi! I am Suyi.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Originally from Kuala Lumpur, Malaysia, I spent 8 years living in Shanghai, China, before moving to the United States for my undergraduate and graduate degrees. I am currently a PhD student in Social Psychology. My research focuses on the role of culture in shaping individuals' emotions, motivation, and decision-making in relation to the use of technology.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+As a "third culture kid", I truly believe that people from different cultures share a lot of similarities, but also have their unique tendencies and needs. I also believe that technology is a powerful and efficient tool that can address many social problems (e.g., using digital instead of traditional contact tracing for COVID-19). However, in an increasingly diverse and connected world, there is no one-size-fits-all solution. I aspire to use my knowledge and experience to explore interpersonal and environmental factors that shape people's use of technology.
+
+Outside research, I love taking long walks, meeting new (and old) friends, and trying out different sports and workout programs. Recently, I grew fond of tennis but am having a hard time correcting my badminton posture to return the ball in a rally!
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
