@@ -30,7 +30,7 @@ social:
   link: https://twitter.com/suyi_leong
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/Suyi-Leong
+  link: https://www.linkedin.com/in/Suyi-Leong
 superuser: true
 title: Suyi Leong
 ---
